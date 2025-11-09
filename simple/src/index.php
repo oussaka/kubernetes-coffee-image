@@ -42,7 +42,6 @@
                 <div class="cup-handle "></div>
             </div style="margin-bottom: 10px;">
         </div>
-	<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
         <footer style="padding-top: 10px">
             <div class="ip-hostname">
                 <p>IP Address:
@@ -51,6 +50,7 @@
                 <p>Pod:
                     <?php echo gethostname(); ?>
                 </p>
+                <p>Content: Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
             </div>
         </footer>
     </center>
