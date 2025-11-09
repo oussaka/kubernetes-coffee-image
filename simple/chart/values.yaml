@@ -2,7 +2,7 @@ replicaCount: 1
 
 image:
   repository: oussaka/kubernetes-coffee-image
-  pullPolicy: IfNotPresent
+  # pullPolicy: IfNotPresent
   tag: "latest"
 
 imagePullSecrets: []
