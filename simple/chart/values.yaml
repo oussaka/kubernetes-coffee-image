@@ -1,9 +1,9 @@
 replicaCount: 1
 
 image:
-  repository: qjoly/kubernetes-coffee-image
+  repository: oussaka/kubernetes-coffee-image
   pullPolicy: IfNotPresent
-  tag: "simple"
+  tag: "latest"
 
 imagePullSecrets: []
 nameOverride: ""
